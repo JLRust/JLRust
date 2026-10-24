@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm JLRust
 
-<!--
-**JLRust/JLRust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+RF test development and LabVIEW software engineer (25+ years) — currently
+learning Rust, Git and GitHub.
 
-Here are some ideas to get you started:
+## Background
+- 25+ years in automated test systems and LabVIEW software engineering
+- Experience across RF test, aerospace, satellite and industrial systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning (from Oct 2026)
+- Rust — basic syntax, starting with Hello World
+- Git and GitHub for version control and portfolio hosting
+
+## What's here
+- `hello.rs` — my first Rust program
+- More small exercises as I learn
